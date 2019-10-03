@@ -119,4 +119,6 @@ def get_routine():
         for tp in g_cnns:
             get_data(tp)
 
+print "a"
+
 get_routine()
